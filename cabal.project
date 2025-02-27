@@ -1,0 +1,7 @@
+packages: .
+
+source-repository-package
+  type: git
+  location: https://github.com/kubernetes-client/haskell
+  tag: 212f6de9badd2edfbaaed620bb1247982d777414
+  subdir: kubernetes-client kubernetes-1.30
